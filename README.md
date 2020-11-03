@@ -1,1 +1,1 @@
-# sukirman
+# uptime buat bot
